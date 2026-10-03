@@ -1,16 +1,13 @@
-# MercySoul Open-Source Authority
+# MercySoul — DO NOT LICENSE
 
 **Effective: 2026-10-03**
 
-MercySoul Dominion authorizes the rights holder to designate specific MercySoul code, documentation, or other materials as open source under an explicitly identified open-source license.
+**NO LICENSE IS GRANTED.**
 
-This authority does **not** by itself make every repository or every file open source. Each release must identify its applicable license and scope.
+No permission is granted to reproduce, redistribute, sell, sublicense, commercially exploit, create derivative works, rebrand, or publish MercySoul proprietary materials without separate authorization.
 
-## Boundaries
-- Only materials expressly released under an identified open-source license are covered.
-- MercySoul trademarks, branding, logos, private credentials, secrets, personal data, and separately licensed third-party materials are excluded unless expressly stated otherwise.
-- Third-party components remain governed by their own licenses.
-- No permission is granted to bypass authentication, access private systems, or use confidential information.
-- A repository change does not itself establish legal ownership or replace required human authorization.
+Third-party components remain governed by their applicable licenses. This notice does not override them.
 
-**Principle:** OPEN-SOURCE AUTHORITY → IDENTIFY SCOPE → IDENTIFY LICENSE → VERIFY → RELEASE → RECORD
+This is a rights/status notice only. It does not transfer ownership, create an open-source grant, or expand permissions.
+
+**Principle:** NO LICENSE → NO IMPLIED PERMISSION → PROTECT → VERIFY → RECORD
